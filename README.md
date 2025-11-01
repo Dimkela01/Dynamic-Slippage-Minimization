@@ -1,6 +1,6 @@
-# Blockhouse-Work-Trial-Task
+# Dynamic-Slippage-Minimization
 
-## 📈 Dynamic Budget Allocation with Market Impact
+## 📈 Budget Allocation with Market Impact
 
 This project implements and compares trading strategies for optimal allocation of a fixed budget across multiple time steps under temporary market impact.
 
